@@ -12,18 +12,18 @@ If you use any code of the repository, please consider citing the above mentionn
 ## Files' organisation
 
 This folder is organised as follows:
-	- **Target Detection/**: Main scripts generating figures presented in paper.
-	- **Target Dictionary/**: Functions allowing to create targets with given spectro-angular behaviour.
-	- **HyperImages/**: Wavelet decomposition functions.
-	- **Detectors/**: Functions for target detection.
+- **Target Detection/**: Main scripts generating figures presented in paper.
+- **Target Dictionary/**: Functions allowing to create targets with given spectro-angular behaviour.
+- **HyperImages/**: Wavelet decomposition functions.
+- **Detectors/**: Functions for target detection.
 
 ## Requirements 
 
 Matlab 2014 or above.
 
 Datasets available at:
-	- https://www.sdms.afrl.af.mil/index.php?collection=ccd_challenge
-	- https://www.sandia.gov/radar/complex-data/
+- https://www.sdms.afrl.af.mil/index.php?collection=ccd_challenge
+- https://www.sandia.gov/radar/complex-data/
 
 ## Credits
 **Author:** Ammar Mian, Ph.d student at SONDRA, CentraleSupélec
