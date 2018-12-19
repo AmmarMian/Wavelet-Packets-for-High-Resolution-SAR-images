@@ -5,7 +5,7 @@ The work here correspond to the simulation done for the TGRS paper on Wavelets:
 	"Design of New Wavelet Packets Adapted to High-Resolution SAR Images with an Application to Target Detection",
 	Ammar Mian, Jean-Philippe Ovarlez , Abdourahmane M. Atto, Guillaume Ginolhac
 	in Transactions on Geoscience and Remote Sensing
-	Preprint available at: https://ammarmian.github.io/publication/tgrs-2019/
+	Preprint available at: https://ammarmian.github.io/publication/tgrs_2019/
 
 If you use any code of the repository, please consider citing the above mentionned reference.
 
